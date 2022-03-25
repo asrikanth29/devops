@@ -1,4 +1,3 @@
 * docker hub -  https://hub.docker.com/
-* docker lab - https://katacoda.com/ncodeit/scenarios/docker-workshop
+* docker lab - https://katacoda.com/scenario-examples/courses/environment-usages/ubuntu-2004
 * docker course - https://kodekloud.com/courses/docker-for-the-absolute-beginner/
-* linux lab https://katacoda.com/ncodeit/scenarios/devops-cloud-basics-linux-workshop-v1
